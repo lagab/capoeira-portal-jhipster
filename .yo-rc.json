@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.lagab.cp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "cp",
+    "packageName": "com.lagab.cp",
+    "packageFolder": "com/lagab/cp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTJjNjdkZWMwYzFkNGNjNDM1NWVlNGUxYWNiMjEwMjNmYzQ3YTg2MDVjMTY3NTAwMTkxZDg3ZmFhODIzYWJkOTc1MjI1NWI0MmI2ZTg4NTNlYmE2MmEzZjBjOGU1ODE4M2M2ZDYxNDgxMDc4MjJhNDE4M2I4YjQ2ODU0NTYwOWY=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr", "pt-br"]
+  }
+}
